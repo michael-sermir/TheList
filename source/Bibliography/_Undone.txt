@@ -6,11 +6,11 @@ C&T 64200 info from "64200 (Wingine) High Performance Windows Engine",
 ftp://ftp.chips.com/pub/pdf/64200.pdf.	(verify availability)
 
 Intel 82374EB/SB info from "82374EB/82374SB EISA System Component (ESC)",
-http://www.intel.com/design/pcisets/datashts/290476.htm.  (verify availability)
+https://datasheet4u.com/pdf-down/8/2/3/823-74EB.pdf
 
 Intel 82439TX (430TX) info from "Intel 430TX PCIset: 82439TX System Controller
-(MTXC)", http://www.intel.com/design/pcisets/datashts/290559.htm.
-(verify availability)
+(MTXC)", 
+https://theretroweb.com/chipset/documentation/82439tx-61f86713c31d1819447673.pdf?__cf_chl_f_tk=SdRmO20osfdrS3DBjP6NUuKY0HZtT6Fo3vkrFWBxRlk-1775485957-1.0.1.1-xzSE0TrDQm2tIMRhNoALYuT53JMhrJrH4fshP2dY1yA, https://www.scribd.com/document/626640164/430TX
 
 Intel 82371AB (PIIX4) info from "",
 http://www.intel.com/design/pcisets/datashts/290562.htm.  (verify availability)
